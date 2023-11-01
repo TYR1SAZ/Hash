@@ -1,0 +1,11 @@
+﻿  SHA512.cpp
+E:\PSU\Items\Cryptography\SHA_512\SHA_512\SHA512.cpp(20,36): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\PSU\Items\Cryptography\SHA_512\SHA_512\SHA512.cpp(25,16): warning C4309: аргумент: усечение константного значения
+E:\PSU\Items\Cryptography\SHA_512\SHA_512\SHA512.cpp(26,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\PSU\Items\Cryptography\SHA_512\SHA_512\SHA512.cpp(34,25): warning C4244: аргумент: преобразование "uint64_t" в "_Elem", возможна потеря данных
+          with
+          [
+              _Elem=char
+          ]
+E:\PSU\Items\Cryptography\SHA_512\SHA_512\SHA512.cpp(84,23): warning C4018: <: несоответствие типов со знаком и без знака
+  SHA_512.vcxproj -> E:\PSU\Items\Cryptography\SHA_512\x64\Debug\SHA_512.exe
